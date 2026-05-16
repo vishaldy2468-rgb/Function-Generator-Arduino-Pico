@@ -53,11 +53,11 @@ Waveform type and frequency are controlled using a rotary encoder and displayed 
 
 ## Hardware Implementation
 
-![Hardware Setup](circuit.png)
+![Hardware Setup](circuit&schmetic/circuit.png)
 
 ## Output Waveforms
 
-![output](output.jpg)
+![Output](output/output.png)
 
 ## Folder Structure
 
