@@ -49,29 +49,15 @@ Waveform type and frequency are controlled using a rotary encoder and displayed 
 
 ## Circuit Diagram
 
-(Add schematic image here)
-
-## Circuit Diagram
-
 ![Circuit Diagram](circuit&schmetic/schemtic-daigram.png)
 
 ## Hardware Implementation
 
-(Add breadboard image here)
-
----
+![Hardware Setup](circuit.png)
 
 ## Output Waveforms
 
-### Square Wave Output
-
-(Add oscilloscope image)
-
-### Triangle Wave Output
-
-(Add oscilloscope image)
-
----
+![output](output.jpg)
 
 ## Folder Structure
 
